@@ -19,7 +19,7 @@ from shutil import copy2, move
 
 # from pathlib import Path
 # from pprint import pprint
-import utaupy as up
+import utaupy110 as up
 
 DEBUG_MODE = False
 TABLE_PATH = './table/japanese_sjis.table'
