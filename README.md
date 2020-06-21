@@ -1,4 +1,14 @@
-# oto2lab
+# oto2lab-v1
+
+---
+
+**このリポジトリは [oto2lab](https://github.com/oatsu-gh/oto2lab) の旧バージョンである v1.x.x をサポートするためのものです。**
+
+**新規ユーザーは oto2lab v2.x.x 以降の最新バージョンを使ってください。**
+
+**2020/06/22**
+
+---
 
 setParamで歌唱ラベリングするための、UST→INI→LAB 変換ソフト。
 

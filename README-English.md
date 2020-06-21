@@ -1,4 +1,16 @@
-# oto2lab
+# oto2lab-v1
+
+---
+
+## NOTICE
+
+**THIS IS THE LEGACY VERSION OF [oto2lab](https://github.com/oatsu-gh/oto2lab) TO SUPPORT "oto2lab" version 1.x.x .**
+
+**If you're new to "oto2lab", use oto2lab version 2.x.x or newer.** 
+
+**(June 22nd, 2020)**
+
+---
 
 A software which can convert UST to INI (for setParam), INI to LAB.
 
@@ -39,11 +51,11 @@ To make singing DB by utilizing existing software (setParam) and know-how (Otoin
 For the purpose of label conversion, it is used differently from the original sound setting of UTAU.
 Set the following.
 
-- Left blank: Not used
+- Offset: Not used
 - Overlap: Voice start position
-- Precedence: Consonant and vowel breaks
-- Fixed Range: Not used (the boundary between the second and third notes only when composed of three phonemes)
-- Right Blank: Not used
+- Preutterance: Consonant and vowel breaks
+- Consonant: Not used (the boundary between the second and third notes only when composed of three phonemes)
+- Cutoff: Not used
 
 ### How to use this tool
 
